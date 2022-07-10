@@ -1,0 +1,18 @@
+body noscript h1 {
+    color: red;
+    text-align: center;
+}
+
+.encabezado{
+    text-align: end;
+}
+
+#titulo {
+    text-align: center;
+    color: rgb(10, 195, 228);
+}
+
+.imagen-content img {
+    width: 500px;
+    height: 450px;
+}
